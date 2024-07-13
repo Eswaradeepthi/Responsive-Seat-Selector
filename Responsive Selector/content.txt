@@ -1,0 +1,73 @@
+Problem Statement--
+Manual Seat Allocation Challenges in Event Management
+
+People who organize events often run into big problems when they have to assign seats by hand for theaters, conferences, and other gatherings. These issues include trouble managing seat bookings , not being able to update seat availability right away, and struggling to offer a booking system that's easy to use on different devices. This often makes users upset less likely to engage, and can lead to mistakes in giving out seats.
+
+Solution--
+Seat Selector UI That Works on All Devices
+Creating a seat selector UI that adapts to different devices tackles these issues by offering a user-friendly and hands-on interface that makes it easy for people to pick and book seats. This solution keeps seat availability up-to-date in real time, works well on various screen sizes to give users a smooth experience, and makes seat management less of a headache for event planners. It gets users more involved, makes the process more accessible, and cuts down on the hassles that come with assigning seats by hand.
+
+
+
+
+
+
+"Benefits of the User-Friendly Seat Selector Interface"
+
+**Easy to Navigate:
+
+The interface has a simple design. Users can pick and book seats quickly without much hassle.
+
+**Fits All Screens:
+
+The UI works well on all device sizes. It gives the same smooth experience on computers, tablets, and phones.
+
+**Clear Visual Cues:
+
+Users get instant visual signs when they choose or un-choose seats. This makes interactions clearer and less confusing.
+
+**Up-to-Date Seat Info:
+
+People can see which seats are free or taken right away. This makes choosing a seat open and quick.
+
+**Works for More People:
+
+Because the seat picker works well on different devices more people can use it. This includes those who like to use their phones.
+
+**Keeps Users Interested:
+
+The lively and good-looking interface grabs users' attention. It pushes them to finish booking their seats.
+
+**Can Be Changed:
+The system adapts to suit various seating layouts, color palettes, and company logos.
+
+
+**Scalability:
+
+You can scale up the rollout to work with venues of different sizes and seat numbers without major changes to the code.
+
+**Effective Seat Management:
+
+This makes it simpler for event planners to handle seat bookings. It cuts down on the mess and potential mistakes that come with assigning seats by hand.
+
+
+
+
+
+
+
+Title-
+Responsive Seat Selector UI
+
+Description-
+I created an interactive interface for users to pick seats for theaters or events. This UI has an impact on how people can choose their spots. To build it, I used HTML, CSS, and JavaScript. These tools helped me make sure the interface works well and adjusts to different screens.
+Key Features-
+*Responsive Design: The UI adapts to different screen sizes to make it easy to use on various devices.
+*Interactive Seat Selection: Users can pick and unpick seats with visual cues.
+*Seat Reservation Confirmation: Users can check how many seats they've booked.
+*Smooth User Interaction: The system uses transitions and hover effects to improve the user's experience.
+
+Impact-
+*Enhanced User Engagement: The easy-to-use interface makes it simpler for users to choose their seats.
+*Increased Accessibility: People can select seats on computers and phones reaching more users.
+*Efficient Seat Management: The system makes it easier to handle seat bookings for events cutting down on the need for manual seat assignment.

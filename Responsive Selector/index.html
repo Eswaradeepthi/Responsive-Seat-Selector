@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seat Selector</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="screen">Screen</div>
+        <div class="seats" id="seatsContainer"></div>
+        <select id="groupSelect">
+            <option value="group1">Group 1</option>
+            <option value="group2">Group 2</option>
+            <option value="group3">Group 3</option>
+        </select>
+        <input type="number" id="clientCount" placeholder="Number of clients" min="1">
+        <button id="reserve">Reserve Seats</button>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
